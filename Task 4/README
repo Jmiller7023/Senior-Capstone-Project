@@ -1,0 +1,5 @@
+The files obtained in this folder were obtained from the OpenCV Repo
+https://github.com/opencv/opencv/blob/master/samples/python/edge.py
+I made modifications to the edge.py script and placed the results in
+webcam.py. I added a Gaussian Blur effect to the image before processing
+it as well as changed the colored outlines to blue instead of green.
